@@ -1,0 +1,95 @@
+##
+## This is part of Japanese translation version for Poetry's documantation.
+##
+
+bases = \
+	2018-03-14-poetry-0-5-0-is-out.md \
+	2018-03-16-poetry-0-6-0-is-out.md \
+	2018-03-18-poetry-0-6-1-is-out.md \
+	2018-03-19-poetry-0-6-2-is-out.md \
+	2018-03-20-poetry-0-6-3-is-out.md \
+	2018-03-21-poetry-0-6-4-is-out.md \
+	2018-03-22-poetry-0-6-5-is-out.md \
+	2018-04-04-poetry-0-7-0-is-out.md \
+	2018-04-13-poetry-0-8-0-is-out.md \
+	2018-04-13-poetry-0-8-1-is-out.md \
+	2018-04-14-poetry-0-8-2-is-out.md \
+	2018-04-16-poetry-0-8-3-is-out.md \
+	2018-04-18-poetry-0-8-4-is-out.md \
+	2018-04-19-poetry-0-8-5-is-out.md \
+	2018-04-30-poetry-0-8-6-is-out.md \
+	2018-05-07-poetry-0-9-0-is-out.md \
+	2018-05-18-poetry-0-9-1-is-out.md \
+	2018-05-28-poetry-0-10-0-is-out.md \
+	2018-05-28-poetry-0-10-1-is-out.md \
+	2018-05-31-poetry-0-10-2-is-out.md \
+	2018-06-04-poetry-0-10-3-is-out.md \
+	2018-06-28-poetry-0-11-0-is-out.md \
+	2018-06-29-poetry-0-11-1-is-out.md \
+	2018-07-03-poetry-0-11-2-is-out.md \
+	2018-07-26-poetry-0-11-3-is-out.md \
+	2018-07-30-poetry-0-11-4-is-out.md \
+	2018-09-04-poetry-0-11-5-is-out.md \
+	2018-10-17-poetry-0-12-0-is-out.md \
+	2018-10-17-poetry-0-12-1-is-out.md \
+	2018-10-17-poetry-0-12-2-is-out.md \
+	2018-10-18-poetry-0-12-3-is-out.md \
+	2018-10-21-poetry-0-12-4-is-out.md \
+	2018-10-26-poetry-0-12-5-is-out.md \
+	2018-11-05-poetry-0-12-6-is-out.md \
+	2018-11-08-poetry-0-12-7-is-out.md \
+	2018-11-13-poetry-0-12-8-is-out.md \
+	2018-11-19-poetry-0-12-9-is-out.md \
+	2018-11-22-poetry-0-12-10-is-out.md \
+	2019-01-13-poetry-0-12-11-is-out.md \
+	2019-04-11-poetry-0-12-12-is-out.md \
+	2019-04-26-poetry-0-12-13-is-out.md \
+	2019-04-26-poetry-0-12-14-is-out.md \
+	2019-05-03-poetry-0-12-15-is-out.md \
+	2019-05-17-poetry-0-12-16-is-out.md \
+	2019-07-03-poetry-0-12-17-is-out.md \
+	2019-12-12-announcing-poetry-1-0-0.md \
+	2020-01-10-announcing-poetry-1-0-1.md \
+	2020-01-10-announcing-poetry-1-0-2.md \
+	2020-01-31-announcing-poetry-1-0-3.md \
+	2020-02-28-announcing-poetry-1-0-4.md \
+	2020-02-29-announcing-poetry-1-0-5.md \
+	2020-06-05-announcing-poetry-1-0-6.md \
+	2020-06-05-announcing-poetry-1-0-7.md \
+	2020-06-05-announcing-poetry-1-0-8.md \
+	2020-06-09-announcing-poetry-1-0-10.md \
+	2020-06-09-announcing-poetry-1-0-9.md \
+	2020-10-01-announcing-poetry-1-1-0.md \
+	2020-10-05-announcing-poetry-1-1-1.md \
+	2020-10-06-announcing-poetry-1-1-2.md \
+	2020-10-14-announcing-poetry-1-1-3.md \
+	2020-10-23-announcing-poetry-1-1-4.md \
+	2021-03-03-announcing-poetry-1-1-5.md \
+	2021-04-14-announcing-poetry-1-1-6.md \
+	2021-05-21-announcing-poetry-1-2-0a1.md \
+	2021-06-25-announcing-poetry-1-1-7.md \
+	2021-08-01-announcing-poetry-1-2-0a2.md \
+	2021-08-19-announcing-poetry-1-1-8.md \
+	2021-09-18-announcing-poetry-1-1-9.md \
+	2021-09-21-announcing-poetry-1-1-10.md \
+	2021-10-04-announcing-poetry-1-1-11.md \
+	2021-11-27-announcing-poetry-1-1-12.md \
+	2022-02-10-announcing-poetry-1-1-13.md \
+	2022-03-17-announcing-poetry-1-2-0b1.md \
+	2022-07-08-announcing-poetry-1-1-14.md \
+	2022-08-22-announcing-poetry-1-1-15.md \
+	2022-08-23-announcing-poetry-1-2-0rc1.md \
+	2022-08-26-announcing-poetry-1-2-0rc2.md \
+	2022-08-31-announcing-poetry-1-2-0.md \
+	2022-09-16-announcing-poetry-1-2-1.md \
+	2022-10-10-announcing-poetry-1-2-2.md \
+	2022-12-09-announcing-poetry-1-3-0.md \
+	2023-02-27-announcing-poetry-1-4-0.md \
+	2023-05-19-announcing-poetry-1-5-0.md \
+	2023-08-20-announcing-poetry-1-6-0.md \
+	2023-11-03-announcing-poetry-1-7-0.md \
+	2024-02-25-announcing-poetry-1-8-0.md \
+	_index.md
+
+include $(top_srcdir)/build-aux/mk/common_website.mk
+include $(top_srcdir)/build-aux/mk/main_website.mk

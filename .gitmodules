@@ -1,0 +1,6 @@
+[submodule "poetry.orig"]
+	path = poetry.orig
+	url = https://github.com/python-poetry/poetry.git
+[submodule "website.orig"]
+	path = website.orig
+	url = https://github.com/python-poetry/website.git
