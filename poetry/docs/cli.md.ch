@@ -604,18 +604,6 @@ poetry install --compile
 @z
 
 @x
-{{% note %}}
-The `--compile` option has no effect if `installer.modern-installation`
-is set to `false` because the old installer always compiles source files to bytecode.
-{{% /note %}}
-@y
-{{% note %}}
-The `--compile` option has no effect if `installer.modern-installation`
-is set to `false` because the old installer always compiles source files to bytecode.
-{{% /note %}}
-@z
-
-@x
 ### Options
 @y
 ### Options

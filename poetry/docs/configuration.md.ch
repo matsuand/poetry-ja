@@ -536,50 +536,6 @@ This configuration is ignored when `installer.parallel` is set to `false`.
 @z
 
 @x
-### `installer.modern-installation`
-@y
-### `installer.modern-installation`
-@z
-
-@x
-**Type**: `boolean`
-@y
-**Type**: `boolean`
-@z
-
-@x
-**Default**: `true`
-@y
-**Default**: `true`
-@z
-
-@x
-**Environment Variable**: `POETRY_INSTALLER_MODERN_INSTALLATION`
-@y
-**Environment Variable**: `POETRY_INSTALLER_MODERN_INSTALLATION`
-@z
-
-@x
-*Introduced in 1.4.0*
-@y
-*Introduced in 1.4.0*
-@z
-
-@x
-Use a more modern and faster method for package installation.
-@y
-Use a more modern and faster method for package installation.
-@z
-
-@x
-If this causes issues, you can disable it by setting it to `false` and report the problems
-you encounter on the [issue tracker](https://github.com/python-poetry/poetry/issues).
-@y
-If this causes issues, you can disable it by setting it to `false` and report the problems
-you encounter on the [issue tracker](https://github.com/python-poetry/poetry/issues).
-@z
-
-@x
 ### `installer.no-binary`
 @y
 ### `installer.no-binary`
